@@ -1,0 +1,9 @@
+Titan Text Embeddings (amazon.titan-embed-text-v1)
+
+Cohere Embed – English (cohere.embed-english-v3)
+
+Claude 3 Sonnet (anthropic.claude-3-sonnet-20240229-v1:0)
+
+Amazon Nova Lite (amazon.nova-lite-v1:0)
+
+Cohere Command R+ (cohere.command-r-plus-v1:0)
